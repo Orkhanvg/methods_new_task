@@ -1,0 +1,15 @@
+/Users/orkhangahramanli/Desktop/method1/method3/bin/Debug/net5.0/method3.deps.json
+/Users/orkhangahramanli/Desktop/method1/method3/bin/Debug/net5.0/method3.runtimeconfig.json
+/Users/orkhangahramanli/Desktop/method1/method3/bin/Debug/net5.0/method3.runtimeconfig.dev.json
+/Users/orkhangahramanli/Desktop/method1/method3/bin/Debug/net5.0/method3.dll
+/Users/orkhangahramanli/Desktop/method1/method3/bin/Debug/net5.0/ref/method3.dll
+/Users/orkhangahramanli/Desktop/method1/method3/bin/Debug/net5.0/method3.pdb
+/Users/orkhangahramanli/Desktop/method1/method3/obj/Debug/net5.0/method3.csproj.AssemblyReference.cache
+/Users/orkhangahramanli/Desktop/method1/method3/obj/Debug/net5.0/method3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orkhangahramanli/Desktop/method1/method3/obj/Debug/net5.0/method3.AssemblyInfoInputs.cache
+/Users/orkhangahramanli/Desktop/method1/method3/obj/Debug/net5.0/method3.AssemblyInfo.cs
+/Users/orkhangahramanli/Desktop/method1/method3/obj/Debug/net5.0/method3.csproj.CoreCompileInputs.cache
+/Users/orkhangahramanli/Desktop/method1/method3/obj/Debug/net5.0/method3.dll
+/Users/orkhangahramanli/Desktop/method1/method3/obj/Debug/net5.0/ref/method3.dll
+/Users/orkhangahramanli/Desktop/method1/method3/obj/Debug/net5.0/method3.pdb
+/Users/orkhangahramanli/Desktop/method1/method3/obj/Debug/net5.0/method3.genruntimeconfig.cache
